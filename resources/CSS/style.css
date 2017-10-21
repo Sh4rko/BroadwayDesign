@@ -1,3 +1,44 @@
-ul {
-  list-style-type: none;
+
+body{
+  font-family: helvetica;
+  text-align: center;
+}
+
+h1,
+h2,
+h3{
+  font-weight: bold;
+}
+
+h1,.motto{
+  color:white;
+  background-image: URL("../images/building.png");
+}
+
+h1{
+  font-size: 70px;
+}
+
+a{
+  color:white;
+  font-size: 18px;
+}
+
+h2{
+  font-size:32px
+}
+
+h3{
+  font-size:23px;
+}
+
+p{
+  font-size:14px;
+}
+
+.footer{
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
